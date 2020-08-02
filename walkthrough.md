@@ -2,6 +2,8 @@
 
 ## 目次
 
+<img src="./assets/images/teacher.png" style="float:right" />
+
 * toc
 {:toc}
 

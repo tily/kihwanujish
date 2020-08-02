@@ -1,8 +1,8 @@
-title: キハヌジ語を学ぼう
+title: たのしい キハヌジ語
 description: |-
-  <a href="">初級編</a><br>
-  <a href="">単語帳</a><br>
-  <a href="">リンク集</a>
+  <a href="walkthrough">初級編</a><br>
+  <a href="dictionary">単語帳</a><br>
+  <a href="reference">リンク集</a>
 theme: jekyll-theme-minimal
 github:
   is_project_page: false

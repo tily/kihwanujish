@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "岸本佐知子さんの本でキハヌジ語が紹介されていました"
-author: 
+author: キハヌジ語保存協会
 tags: ["ニュース"]
 ---
 

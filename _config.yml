@@ -3,9 +3,9 @@ title: キハヌジ語 学習
 #path: /kihwanujish/
 #baseurl: https://tily.github.io/kihwanujish/
 description: |-
-  > <a href="walkthrough">初級編</a><br>
-  > <a href="dictionary">単語帳</a><br>
-  > <a href="reference">リンク集</a>
+  > <a href="/kihwanujish/walkthrough">初級編</a><br>
+  > <a href="/kihwanujish/dictionary">単語帳</a><br>
+  > <a href="/kihwanujish/reference">リンク集</a>
 logo: /assets/images/ogmo.jpg
 theme: jekyll-theme-minimal
 github:

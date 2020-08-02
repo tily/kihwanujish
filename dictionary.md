@@ -2,7 +2,7 @@
 
 便宜上、アイウエオ順で記しています。
 
-<img src="../assets/images/handsup.png" style="float:right" />
+<img src="./assets/images/handsup.png" style="float:right" />
 
 ## 目次
 

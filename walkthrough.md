@@ -1,5 +1,10 @@
+# 初級編
+
 ## 目次
 
+<img src="./assets/images/teacher.png" style="float:right" />
+
+* toc
 {:toc}
 
 ## 1. 形容詞の打ち消し／強調

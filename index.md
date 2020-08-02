@@ -6,6 +6,16 @@
 
 一緒に楽しく勉強しましょう！
 
+## ニュース
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.date | date: "%Y/%m/%d" }} {{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ## あいさつ
 
 「オグモ」は日本語の「どうも」にあたるような言葉なので、はじめに覚えておきましょう。

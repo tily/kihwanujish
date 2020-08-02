@@ -4,3 +4,6 @@ description: |-
   <a href="">単語帳</a><br>
   <a href="">リンク集</a>
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
+  is_user_page: false

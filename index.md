@@ -1,5 +1,12 @@
 # キハヌジ語 e-ラーニングサイト
 
+## オグモ ハナトムゲ！ (みなさん、こんにちは！)
+
+ここは、日本語母語話者のためのキハヌジ語学習サイトです。  
+文法や単語など、基礎的な事柄を分かりやすく解説しています。
+
+一緒に楽しく勉強しましょう！
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tily/kihwanujish/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

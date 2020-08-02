@@ -1,6 +1,8 @@
 title: キハヌジ語を学ぼう
 description: |-
-  * hoge
-  * fuga
-  * naha
+  <ul>
+    <li>hoge</li>
+    <li>fuga</li>
+    <li>naha</li>
+  </ul>
 theme: jekyll-theme-minimal

@@ -1,7 +1,7 @@
 title: キハヌジ語 学習
-url: https://tily.github.io
-path: /kihwanujish/
-#baseurl: https://tily.github.io/kihwanujish/
+#url: https://tily.github.io
+#path: /kihwanujish/
+baseurl: https://tily.github.io/kihwanujish/
 description: |-
   > <a href="walkthrough">初級編</a><br>
   > <a href="dictionary">単語帳</a><br>

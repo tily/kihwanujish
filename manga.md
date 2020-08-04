@@ -1,3 +1,3 @@
 # マンガで分かるキハヌジ語講座
 
-![](assets/images/manga001.png)
+![](assets/images/koza001.png)

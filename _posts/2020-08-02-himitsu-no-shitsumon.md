@@ -5,7 +5,7 @@ author: キハヌジ語保存協会
 tags: ["ニュース"]
 ---
 
-<img src="/kihwanujish/assets/images/himitsu-no-shitsumon.jpg" />
+<img src="/kihwanujish//assets/images/himitsu-no-shitsumon.jpg" />
 
 タイトルの通り、岸本佐知子さんのエッセイ集「ひみつのしつもん」で、キハヌジ語を紹介していただきました。
 

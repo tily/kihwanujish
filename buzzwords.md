@@ -10,4 +10,4 @@
 
 ## 2010 年
 
-* マンゴルスム ([参考 URL] (https://twitter.com/tily/status/9956621534896129))
+* マンゴルスム ([参考 URL](https://twitter.com/tily/status/9956621534896129))

@@ -7,9 +7,9 @@
 ## 2011 年
 
 * マンゴルスム
-    * 参考: https://twitter.com/tily/status/152267816094023680?s=20
+    * 参考: https://twitter.com/tily/status/152267816094023680
 
 ## 2010 年
 
 * マンゴルスム
-    * 参考: https://twitter.com/tily/status/9956621534896129?s=20
+    * 参考: https://twitter.com/tily/status/9956621534896129
